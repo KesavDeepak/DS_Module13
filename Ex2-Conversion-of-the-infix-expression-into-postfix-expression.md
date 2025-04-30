@@ -93,3 +93,7 @@ int main()
 ## Output:
 
 ![image](https://github.com/user-attachments/assets/75926b46-584f-400b-8686-3f3534561757)
+
+
+## Result:
+Thus, the C program to convert the infix expression into postfix form using stack by following the operator precedence and associative rule is implemented successfully.
